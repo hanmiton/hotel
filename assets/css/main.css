@@ -94,8 +94,12 @@
 			border-color: transparent;
 		}
 
+/*logo*/
+	.logo{
+		border-radius: 50%;
+	}
 /* Icon */
-
+	
 	.icon {
 		text-decoration: none;
 		position: relative;
